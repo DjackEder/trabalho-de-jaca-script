@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Arial, sans-serif;
+}
+section {
+    position: relative;
+    width: 1500px;
+    height: 700px;
+    overflow: hidden;
+}
+#primeirobotao{
+    justify-content: space-between;
+}
